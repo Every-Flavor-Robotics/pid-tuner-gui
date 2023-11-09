@@ -1,0 +1,20 @@
+{
+    "name": "pid_tuner",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.0",
+        "electron": "^27.0.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "socket.io-client": "^4.7.2"
+    }
+}
